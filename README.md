@@ -8,7 +8,7 @@ Hi, I'm Abdellah, and in this project, I developed a simple yet exciting dice ro
 
 I built a Las Vegas-style dice app that allows you to roll two dice by pressing a button. It’s a practical tool to settle any decision or simply have fun. Now, I have my own dice app in my pocket for any occasion!
 
-![App Demo](https://github.com/londonappbrewery/Images/blob/master/dicee-demo.gif)
+![App image](images/dice_app.png)
 
 ## What I Learned
 
